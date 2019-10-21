@@ -1,0 +1,29 @@
+{
+  "name": "visherlv_emergency_demo1_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.5",
+    "nodemon": "^1.19.4",
+    "request": "^2.88.0",
+    "telegram-bot-api": "^1.3.3",
+    "url-regex": "^5.0.0",
+    "uuid": "^3.3.2",
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.0",
+    "node-telegram-bot-api": "^0.40.0",
+    "supertest": "^4.0.2"
+  }
+}
