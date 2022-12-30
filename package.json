@@ -22,7 +22,7 @@
     "winston": "^3.2.1"
   },
   "devDependencies": {
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "node-telegram-bot-api": "^0.40.0",
     "supertest": "^4.0.2"
   }
